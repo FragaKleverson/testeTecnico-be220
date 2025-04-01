@@ -1,3 +1,3 @@
 # testeTecniobe220
-Teste Técnio
+Teste Técnico
 Acessar Master/tests
